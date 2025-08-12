@@ -1,3 +1,20 @@
 header{
     background-color: blue;
 }
+
+#produtos{
+    background-color: greenyellow;
+    height: 700px;
+}
+#parceiros{
+    background-color: brown;
+    height: 700px;
+}
+#historia{
+    background-color: blueviolet;
+    height: 700px;
+}
+#cadastro{
+    background-color: chocolate;
+    height: 700px;
+}
